@@ -1,0 +1,1 @@
+Hello World! This is a test trial text file to test the CharacterCounter program. I hope you like it!
