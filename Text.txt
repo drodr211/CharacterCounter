@@ -1,1 +1,2 @@
-Hello World! This is a test trial text file to test the CharacterCounter program. I hope you like it!
+Hello World! This is a test trial text file to test the CharacterCounter program. I hope you like it! 
+It can read numbers now like 1234 and 11223344 and even ,.<>/?;:'"[{]}\|-_=+()*^%$#@!&^~`]
