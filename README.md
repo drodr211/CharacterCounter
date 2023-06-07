@@ -1,4 +1,6 @@
 # CharacterCounter
+![BADGE](https://github.com/drodr211/CharacterCounter/actions/workflows/c-cpp.yml/badge.svg)
+
 Counts the instances of characters in a text file
 
 * Can count iterations of letters, numbers and the usual grammar characters ,./;'[]\-=<>?:"{}|!@#$%^&*()_+~`and SPACES
